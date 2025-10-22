@@ -8,8 +8,8 @@ dt = 0.1
 steps = 800
 bounds = [0, 20, 0, 12]
 
-n_robots = 4
-n_targets = 2
+n_robots = 30
+n_targets = 30
 
 # Robot and target parameters
 robot_speed = 0.8
